@@ -3,14 +3,14 @@
 * [Introduction](README.md)
 * [Untitled](untitled.md)
 
-## PAGE GROUP 01 <a id="use-headings-to-create-page-groups-like-this-one"></a>
+## PAGE GROUP 01 <a id="group01"></a>
 
-* [Bloque 01](use-headings-to-create-page-groups-like-this-one/first-pages-title/README.md)
-  * [Some child page](use-headings-to-create-page-groups-like-this-one/first-pages-title/some-child-page.md)
-  * [Some other child page](use-headings-to-create-page-groups-like-this-one/first-pages-title/some-other-child-page.md)
-* [Bloque 02](use-headings-to-create-page-groups-like-this-one/second-pages-title/README.md)
-  * [Some child page](use-headings-to-create-page-groups-like-this-one/second-pages-title/some-child-page.md)
-  * [Some other child page](use-headings-to-create-page-groups-like-this-one/second-pages-title/some-other-child-page.md)
+* [Bloque 01](group01/first-pages-title/README.md)
+  * [Some child page](group01/first-pages-title/some-child-page.md)
+  * [Some other child page](group01/first-pages-title/some-other-child-page.md)
+* [Bloque 02](group01/second-pages-title/README.md)
+  * [Some child page](group01/second-pages-title/some-child-page.md)
+  * [Some other child page](group01/second-pages-title/some-other-child-page.md)
 
 ## A second-page group​
 
